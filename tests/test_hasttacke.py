@@ -12,6 +12,6 @@ def test_regntäcke():
     assert välj_täcke(10, True) == "regntäcke"
 
 
-@pytest.mark.unit2    
+@pytest.mark.unit2
 def test_inget_täcke():
     assert välj_täcke(15, False) == "inget täcke"

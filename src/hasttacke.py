@@ -14,4 +14,4 @@ def välj_täcke(temp, regnar):
 
 
 # def välj_täcke(temp):
-#    return "vintertäcke" if temp < 5 else "regntäcke"
+# return "vintertäcke" if temp < 5 else "regntäcke"

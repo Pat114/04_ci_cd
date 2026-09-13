@@ -1,6 +1,7 @@
 from src.hasttacke import välj_täcke
 import pytest
 
+
 @pytest.mark.unit2
 def test_vintertäcke():
     assert välj_täcke(2, False) == "vintertäcke"
